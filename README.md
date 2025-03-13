@@ -1,6 +1,13 @@
 # Case Study: Optimizing Sales & Reducing Revenue Loss in E-Commerce
 ## Framework: STAR Method (Situation, Task, Action, Result)
 
+## Data Cleaning & Exploratory Data Analysis (EDA)
+Objective: Ensure clean, structured data before analysis.
+## How This Helps the Case Study
+1. Ensures clean and structured data for SQL & Python analysis.
+2. Highlights missing data, duplicates, and outliers before deeper analysis.
+3. Provides initial business insights (best-selling products, order status trends).
+
 ## Situation: Identifying Revenue Loss & Growth Opportunities
 An e-commerce business faced challenges with high cancellation rates, returns, and underperforming cities, leading to revenue leakage. Our goal was to analyze key areas of improvement and propose data-driven strategies to increase overall revenue.
 
